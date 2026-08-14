@@ -1,4 +1,10 @@
-T.SefokaST10514211
+##Student Information 
+Student name: ST10514211
+Student Full name: Tshepho Sefoka
+Group: Year 1 Group 3
+Module: Web development
+Module Code: WEDE5020
+
 Kasi Kicks Website Project Proposal
 Introduction
 
